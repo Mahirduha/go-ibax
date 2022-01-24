@@ -61,6 +61,8 @@ $    go-ibax generateFirstBlock \
 $    go-ibax initDatabase
 ```
 
+Failed to establish connection to the WebSocket server. Check your configuration
+
 5.Starting go-ibax.
 
 ```bash
